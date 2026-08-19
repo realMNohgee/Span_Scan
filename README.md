@@ -1,4 +1,5 @@
 # Span_Scan
+![CI](https://github.com/realMNohgee/Span_Scan/actions/workflows/ci.yml/badge.svg) ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 **Find, merge, and gap-fill overlapping intervals — one tiny, zero-dependency CLI.**
 
